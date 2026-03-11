@@ -38,7 +38,27 @@ Grouping data into meaningful segments for deeper analysis.
 ### Reporting
 Creating structured queries that generate business-ready reports.
 
----
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+Mohamed Ibrahim\
+Data Engineer
+------------------------------------------------------------------------
+
+
+## 🚀 About Me
+
+I am passionate about designing structured databases and transforming raw datasets into meaningful insights.  
+Recently completed the Associate Data Engineer in SQL track and currently building real-world SQL Server projects simulating business workflows.
+
+I am actively seeking Data Engineering Internship opportunities.
+
+## 📫 Connect With Me
+
+📧 Email: mohamedibrahim45469@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-b2aa1a32b  
+
 
 ## Tools & Technologies
 

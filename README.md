@@ -45,6 +45,13 @@ Grouping data into meaningful segments for deeper analysis.
 ### Reporting
 Creating structured queries that generate business-ready reports.
 
+
+## Tools & Technologies
+
+- SQL
+- Relational Databases
+- Data Analytics Techniques
+- Business Intelligence Concepts
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
@@ -67,9 +74,4 @@ I am actively seeking Data Engineering Internship opportunities.
 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-b2aa1a32b  
 
 
-## Tools & Technologies
 
-- SQL
-- Relational Databases
-- Data Analytics Techniques
-- Business Intelligence Concepts
